@@ -74,7 +74,7 @@
 # print("red\t\t\t\t\t\t\tApple")
 
 
-site = "https://naver.com"
+site = "http://naver.com"
 # one = site[8:]
 
 # siteFind = site.find('.')
